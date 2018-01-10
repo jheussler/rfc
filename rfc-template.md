@@ -23,6 +23,10 @@ Nevertheless, you're welcome to submit a complete RFC at first commit.
 
 ## Proposal
 
+> The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
+> "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be
+> interpreted as described in [RFC 2119](http://tools.ietf.org/html/rfc2119).
+
 Detailed features and examples of the proposal.
 
 Explain here how the proposal integrates with existing components if needed. 
