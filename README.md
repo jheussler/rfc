@@ -30,6 +30,8 @@ Under core team responsability:
  - when discussions are over, and no show stopper has raised, RFCs are in "VOTING" state
  - depending on the vote result, RFCs can be either in "ACCEPTED" or "REJECTED" state
  
+![RFCs lifecycle flow diagram](rfc-lifecycle.png)
+
  ## Voting phase
  
  Every voter will be expected to vote within 10 days once the RFC turned to "VOTING" state. A negative vote will need to be explained to be taken in account ("I don't like the author" or "I don't understand the point" will **not** be considered as an explanation for a negative vote!).
