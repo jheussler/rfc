@@ -37,7 +37,7 @@ Also explain the way you think it could be implemented.
 
 What breaks, and what is the justification for it?
 
-## Proposed Objective PHP Version(s)
+## Proposed ObjectivePHP Version(s)
 
 List the proposed versions that the feature will be included in. Use relative versions such as “next <component name> 2.x” or “next <package name> 2.x.y”.
 
