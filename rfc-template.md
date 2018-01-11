@@ -1,11 +1,11 @@
-# Objective PHP RFC: <Your Title Here>
+# ObjectivePHP RFC: <Your Title Here>
 
 >  * Version: 0.9
 >  * Date: 2013-02-24 (use today's date here)
 >  * Author: Your Name, your_email_address@example.com
 >  * Status: Draft (or Under Discussion or Accepted or Declined - please also apply matching label on issue)
 
-This is a suggested template for Objective PHP Request for Comments (RFCs). 
+This is a suggested template for ObjectivePHP Request for Comments (RFCs). 
 
 Change this template to suit your RFC. Not all RFCs need to be tightly specified. 
 
